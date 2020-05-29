@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>ptr224</Authors>
+    <Description>Libreria per la gestione semplificata delle notifiche in applicazioni .Net Core Desktop Bridge</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Toolkit.Uwp.Notifications" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Windows.SDK.Contracts" Version="10.0.19041.1" />
+  </ItemGroup>
+
+</Project>

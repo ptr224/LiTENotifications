@@ -5,6 +5,8 @@
     <Authors>ptr224</Authors>
     <Description>Libreria per la gestione semplificata delle notifiche in applicazioni .Net Core Desktop Bridge.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ptr224/LiTENotifications</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
